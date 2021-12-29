@@ -1,4 +1,12 @@
-### Hi there 👋
+### ¡Saludos!
+Soy Edson Armando, alias SistemaRayoXP. Soy un sujeto de Guadalajara que le encanta la tecnología, y los sistemas de cualquier clase, y la esquematización.
+
+- Actualmente estudio ingeniería en computación en el CUCEI de la UdeG. A veces soy muy buen estudiante, otras... digamos que no me va bien. Pero como siempre digo, lo importante es aprender :)
+- Sé programar en Python y PHP, pero conozco la sintaxis de C y estoy en proceso de aprender Java y C al mismo tiempo.
+- Si no conozco algo, lo investigo, y en algún momento lo resuelvo (aunque puede que el momento llegue un poco tarde, jeje)
+- Tengo mucha experiencia con administración de sistemas, específicamente Windows (desde el XP hasta el 10), aunque tampoco me quedo corto en Debian y sus derivados.
+- Me gusta cualquier clase de contenido de ciencia ficción, principalmente los relacionados a viajes en el tiempo y a velocidades superiores a las de la luz (actualmente estoy viendo Viaje a las estrellas).
+- Estoy en facebook como [SistemaRayoXP](https://facebook.com/sistemarayoxp). No suelo contestar mensajes a casi nadie, pero si de verdad necesitas contactarme, insiste y responderé en algún momento.
 
 <!--
 **SistemaRayoXP/SistemaRayoXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
